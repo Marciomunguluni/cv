@@ -33,15 +33,15 @@ header {
 
 
 .exp {
-    border-left: 4px dotted blue;
+    border-left: 4px dotted rgb(212, 165, 10);
     padding-left: 10px;
    
    
 }
 h2 {
-    border-left: 4px dotted blue;
+    border-left: 4px dotted rgb(5, 5, 5);
     padding-left: 10px;
-    background-color: rgb(187, 183, 183);
+    background-color: rgb(187, 186, 183);
 }
 
 img {

@@ -6,11 +6,13 @@ body {
 header {
     display : flex;
     justify-content: space-between;
-    align-items: baseline;
+    align-items:center;
     background-color: rgb(55, 56, 56);
+    height: 150px;
+
 }
 .titulo h1{
-    background-color: rgb(65, 68, 68);
+    background-color: rgb(63, 65, 65);
     color: antiquewhite;
    
  }
@@ -20,6 +22,8 @@ header {
 #habilidades{
     display:flex;
     justify-content: space-around;
+    width: 200px;
+    padding-left: 30px;
  
     
 }nav ul li{
@@ -44,24 +48,44 @@ h2 {
     background-color: rgb(187, 186, 183);
 }
 
-img {
-   width: 100px;
-   height: 90px;
-   object-fit: cover;
-   position: relative;
-   top: 20px;
-   padding-left: 10px;
-  
-}
+
 footer {
     background-color: #070707;
     width: 2000px;
-    height: 40px;
+    height: 60px;
     color: aliceblue;
 }
 h3{
     padding-left: 30px;
 }
+h1{
+    color: aliceblue;
+    font-size: 40px;
+   
+
+}
+.logo{
+    display:flex;
+    justify-content: space-around;
+   
+}
+
+.rrss {
+    display:flex;
+}
+.rrss-item{
+    width: 50px;
+}
+
+img {
+    width:100%;
+}
+.foto{
+    width: 100px;
+    padding-left: 30px;
+}
+
+
   
   
 

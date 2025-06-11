@@ -7,25 +7,20 @@ header {
     display : flex;
     justify-content: space-between;
     align-items: baseline;
+    background-color: rgb(55, 56, 56);
 }
 .titulo h1{
-    flex: 1;       
-
-    background-color: aqua;
-    text-align: center;
-    border-radius: 50px
-    
-    
-}
+    background-color: rgb(65, 68, 68);
+    color: antiquewhite;
+   
+ }
 
 
 
-img{
-    width: 50px;
-}
 #habilidades{
     display:flex;
     justify-content: space-around;
+ 
     
 }nav ul li{
     color: rgb(236, 6, 6);
@@ -34,14 +29,57 @@ img{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display: inline;
     justify-content: space-between
-    
 }
 
 
 .exp {
     border-left: 4px dotted blue;
     padding-left: 10px;
+   
+   
 }
+h2 {
+    border-left: 4px dotted blue;
+    padding-left: 10px;
+    background-color: rgb(187, 183, 183);
+}
+
+img {
+   width: 100px;
+   height: 90px;
+   object-fit: cover;
+   position: relative;
+   top: 20px;
+   padding-left: 10px;
+}
+footer {
+    background-color: #070707;
+    width: 2000px;
+    height: 40px;
+    color: aliceblue;
+}
+h3{
+    padding-left: 30px;
+}
+  
+  
+
+
+    
+  
+   
+    
+
+
+    
+
+   
+   
+   
+  
+   
+  
+
 
 
  

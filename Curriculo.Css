@@ -1,0 +1,179 @@
+body {
+    background-color: rgb(241, 241, 235);
+
+}
+
+header {
+    display : flex;
+    justify-content: space-between;
+    align-items:center;
+    background-color: rgb(1, 36, 36);
+    height: 150px;
+    border: solid 3px; 
+
+}
+.titulo h1{
+    background-color: rgb(2, 37, 37);
+    color: antiquewhite;
+    border-radius: 10px;
+   font-size: 30px;
+   
+ }
+
+
+
+#habilidades{
+    display:flex;
+    justify-content: space-around;
+    width: 200px
+   
+ 
+    
+}nav ul li{
+    color: rgb(1, 20, 19);
+    margin-right: 20px;
+    padding-left: 4px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline;
+    justify-content: space-between
+    
+    }
+
+.menu a:hover {
+    transform: scale(1.05);
+    unicode-bidi: isolate;
+    background-color: #00140b;
+    border-right: 1px solid #555;
+    border: solid rgb(0, 0, 0);
+  
+}
+
+
+.exp {
+    border-left: 4px dotted rgb(19, 19, 18);
+    background-color: rgb(223, 240, 197);
+    border-radius: 20px;
+   
+   
+}
+h2 {
+    border-left: 4px dotted rgb(5, 5, 5);
+    padding-left: 10px;
+    background-color: rgb(187, 186, 183);
+}
+
+
+footer {
+    background-color: #070707;
+    width: 2000px;
+    height: 60px;
+    color: aliceblue;
+    
+}
+h3{
+    padding-left: 30px;
+}
+h1{
+    color: aliceblue;
+    font-size: 40px;
+   
+
+}
+.logo{
+    display:flex;
+    justify-content: space-around;
+   
+}
+
+.rrss {
+    display:flex;
+}
+.rrss-item{
+    width: 50px;
+}
+
+img {
+    width:90%;
+    border-radius: 40px;
+}
+.foto{
+    width: 100px;
+    padding-left: 30px;
+}
+.idiomas{
+    box-sizing: border-box
+    border-collapse: collapse;
+   
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid #080808;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: rgb(1, 20, 19);
+    color: #ddd;
+    font-weight: bold;
+  }
+  td{
+    font-family:sans-serif
+    
+    }
+    .form{
+        border-left:solid 2.5px rgb(19, 19, 18);
+        padding-left: 10px;
+    }
+.script{
+   color: beige;
+    width: 1000px;
+    height: 2000px;
+    padding-left: 50px;
+   }
+
+   .CONTÁCTAME{
+    border: 2px solid;
+    border-radius: 50px;
+    padding-right: 20px;
+   
+   
+   
+    
+   }
+
+
+   
+  
+
+
+ 
+
+  
+  
+
+
+    
+  
+   
+    
+
+
+    
+
+   
+   
+   
+  
+   
+  
+
+
+
+ 

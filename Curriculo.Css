@@ -43,9 +43,10 @@ header {
 .menu a:hover {
     transform: scale(1.05);
     unicode-bidi: isolate;
-    background-color: #00140b;
+    background-color: #07e983;
     border-right: 1px solid #555;
     border: solid rgb(0, 0, 0);
+    border-radius: 5px;
   
 }
 .menu a {

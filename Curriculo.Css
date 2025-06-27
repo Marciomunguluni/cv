@@ -30,7 +30,7 @@ header {
  
     
 }nav ul li{
-    color: rgb(1, 20, 19);
+    color: rgb(4, 175, 167);
     margin-right: 20px;
     padding-left: 4px;
     font-size: 20px;
@@ -48,7 +48,9 @@ header {
     border: solid rgb(0, 0, 0);
   
 }
-
+.menu a {
+    color:rgb(1, 36, 36);
+}
 
 .exp {
     border-left: 4px dotted rgb(19, 19, 18);
